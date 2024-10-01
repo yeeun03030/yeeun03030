@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My résumé -> github.com/yeeun03030/yeeun03030/blob/main/이력서.pdf
+My résumé -> https://github.com/yeeun03030/yeeun03030/blob/main/이력서.pdf
